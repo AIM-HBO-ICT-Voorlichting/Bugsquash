@@ -1,2 +1,2 @@
 # Bugsquash
-Voorbeeldapplicatie voor de workshop van Girls' Day 2024
+Applicatie voor workshop Programmeren op open dagen van HAN HBO-ICT.
